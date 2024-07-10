@@ -13,7 +13,7 @@ println("Ingresa tu peso:")
 
     else if (imc > 18.6 && imc <= 29.9){
 
-        println("tu peso es correcto")
+        println("tu peso es ideal")
         }
             else
             println("Estas obeso")
